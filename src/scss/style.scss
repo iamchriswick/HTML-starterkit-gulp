@@ -1,1 +1,21 @@
 
+/*Settings*/
+@import "settings/globals";
+@import "settings/colors";
+@import "settings/fonts";
+@import "settings/breakpoints";
+
+/*Layout*/
+@import "settings/header";
+@import "settings/nav";
+@import "settings/main";
+@import "settings/sidebar";
+@import "settings/footer";
+
+
+/*Base*/
+@import "settings/page";
+@import "settings/tables";
+@import "settings/forms";
+@import "settings/typo";
+@import "settings/links";
